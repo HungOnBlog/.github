@@ -8,7 +8,7 @@ here: [Hungon Blog](https://hungon.notion.site)
 ### Games
 
 #### [Minesweeper](https://github.com/HungOnBlog/minesweeper)
-![Minesweeper] (https://github.com/HungOnBlog/minesweeper/blob/master/minesweeper.png)
+![Minesweeper](https://github.com/HungOnBlog/minesweeper/blob/master/minesweeper.png)
 
 #### [2048](https://github.com/HungOnBlog/2048)
 ![2048](https://github.com/HungOnBlog/2048/blob/master/2048.jpg)
