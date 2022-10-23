@@ -3,7 +3,7 @@ HungOnBlog is organization for personal blog of Hung
 
 here: [Hungon Blog](https://hungon.notion.site)
 
-## Current repo
+## Current repositories
 
 ### Games
 
