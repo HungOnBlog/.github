@@ -3,8 +3,8 @@ HungOnBlog is organization for personal blog of Hung
 
 here: [Hungon Blog](https://hungon.notion.site)
 
-[Docker & Kubernetes](#docker-kuber)
-[Game](#game)
+- [Docker & Kubernetes](#docker-kuber)
+- [Game](#game)
 
 ## Current repositories
 ---
