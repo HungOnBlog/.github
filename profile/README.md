@@ -27,4 +27,6 @@ Repo: [2048 repo](https://github.com/HungOnBlog/2048)
 ![2048](https://github.com/HungOnBlog/2048/blob/master/2048.png)
 
 #### [Sudoku](#sudoku)
-Repo: ![Sudoku Repo](https://github.com/HungOnBlog/sudoku/blob/master/sudoku.png)
+Repo: [Sudoku Repo](https://github.com/HungOnBlog/sudoku)
+
+![Sudoku Repo](https://github.com/HungOnBlog/sudoku/blob/master/sudoku.png)
