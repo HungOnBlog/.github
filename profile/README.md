@@ -10,7 +10,7 @@ here: [Hungon Blog](https://hungon.notion.site)
 ---
 ### [Docker & Kubenetes](#docker-kube)
 
-#### [Setup k8s (Kubernetes) cluster in local environment using Vagrant and k0s](#k0s-vagrant)
+#### [Setup k8s (Kubernetes) cluster in local environment using Vagrant and k0s](#k0s-vagrant) of Just me and Opent Source
 
 Original tutorial: [[ Kube 103.2 ] Bootstrapping multi node K0S Kubernetes cluster](https://www.youtube.com/watch?v=5n67mohikjY&t=26s)
 
